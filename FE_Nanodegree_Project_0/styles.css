@@ -6,6 +6,7 @@ body {
 .content {
   max-width: 500px;
   margin: 0 auto;
+  text-align: center;
 }
 
 
@@ -77,6 +78,7 @@ h1 {
   /*background-color: #294860;*/
   background-color: Black;
   color: white;
+  text-align: center;
 }
 
 .my-picture {
