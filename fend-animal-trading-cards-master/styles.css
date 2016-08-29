@@ -1,0 +1,43 @@
+/* add your CSS here */
+
+.card {
+	width: 310px;
+	border: solid 1px silver;
+	padding: 10px;
+	box-shadow: 10px 10px 5px gray;
+
+}
+
+.header {
+	font-size: 20px;
+}
+
+.summary {
+	font-style: italic;
+	text-align: left;
+}
+
+.info-box {
+	border: solid 1px silver;
+	width: 278px;
+	padding: 10px 10px 0px 10px;
+	margin-top: 10px;
+}
+
+.list span {
+	font-weight: bold;
+}
+
+.list {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+.description {
+	text-align: left;	
+}
+
+.animal-image {
+	width: 300px;
+	height: 200px; 
+}
